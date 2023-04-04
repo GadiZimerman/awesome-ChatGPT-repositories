@@ -842,6 +842,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 ## Others
 
  * [visual-chatgpt](https://github.com/microsoft/visual-chatgpt) - Official repo for the paper: Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models
+ * [CodiumAI](https://github.com/Codium-ai/codiumai-vscode-release) - get non-trivial tests suggested right inside your IDE (VSCode, JetBrains)
  * [nanoGPT](https://github.com/karpathy/nanogpt) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
  * [gpt_index](https://github.com/jerryjliu/gpt_index) - Tensors and Dynamic neural networks in Python  with strong GPU acceleration
  * [gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) - Dataset of GPT-2 outputs for research in detection, biases, and more
@@ -988,6 +989,7 @@ Your contributions are always welcome! Before contributing, please read [the gui
 |Name|Language|License|GitHub Stars|
 -|-|-|-
 |[visual-chatgpt](https://github.com/microsoft/visual-chatgpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/visual-chatgpt?style=social)|
+|[CodiumAI](https://github.com/Codium-ai/codiumai-vscode-release))|Python, TypeScript, JavaScript|-|![GitHub Repo stars]([https://github.com/Codium-ai/codiumai-vscode-release?style=social)|
 |[nanoGPT](https://github.com/karpathy/nanogpt)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/karpathy/nanoGPT?style=social)|
 |[gpt_index](https://github.com/jerryjliu/gpt_index)|Python|Other|![GitHub Repo stars](https://img.shields.io/github/stars/jerryjliu/gpt_index?style=social)|
 |[gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset)|Python|MIT License|![GitHub Repo stars](https://img.shields.io/github/stars/openai/gpt-2-output-dataset?style=social)|
